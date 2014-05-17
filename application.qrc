@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>images/drag_image.xpm</file>
+        <file>images/edit_copy.xpm</file>
+        <file>images/edit_cut.xpm</file>
+        <file>images/edit_paste.xpm</file>
+        <file>images/file_close.xpm</file>
+        <file>images/file_open.xpm</file>
+        <file>images/file_quit.xpm</file>
+        <file>images/file_recent.xpm</file>
+        <file>images/nbr_edge.xpm</file>
+        <file>images/pt_lut.xpm</file>
+        <file>images/pt_thr.xpm</file>
+        <file>images/win_layout0.xpm</file>
+        <file>images/win_layout1.xpm</file>
+        <file>images/win_layout2.xpm</file>
+        <file>images/win_layout3.xpm</file>
+        <file>images/win_layout4.xpm</file>
+        <file>images/win_layout5.xpm</file>
+        <file>images/win_layout6.xpm</file>
+        <file>images/win_layout7.xpm</file>
+        <file>images/win_layout8.xpm</file>
+        <file>images/win_layout9.xpm</file>
+        <file>images/zoomMag.xpm</file>
+        <file>images/zoomMin.xpm</file>
+    </qresource>
+</RCC>

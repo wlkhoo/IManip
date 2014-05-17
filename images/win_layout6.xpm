@@ -1,0 +1,27 @@
+/* XPM */
+static char *win_layout6[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1",
+"  c opaque",
+". c gray50",
+"X c #c0c0c0",
+"o c white",
+"O c None",
+/* pixels */
+"......OO......OO",
+".ooooX O.ooooX O",
+".ooooX O.ooooX O",
+".ooooX O.ooooX O",
+".ooooX O.ooooX O",
+".XXXXX O.ooooX O",
+"       O.ooooX O",
+"OOOOOOOO.ooooX O",
+"......OO.ooooX O",
+".ooooX O.ooooX O",
+".ooooX O.ooooX O",
+".ooooX O.ooooX O",
+".ooooX O.ooooX O",
+".XXXXX O.XXXXX O",
+"       O       O",
+"OOOOOOOOOOOOOOOO"
+};
